@@ -3,8 +3,6 @@ package com.example.todolist;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import android.util.Log;
-
 public class ToDoItem {
   String task;
   Date created;
@@ -30,7 +28,6 @@ public class ToDoItem {
   public String toString() {
     SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yy");
     String dateString = sdf.format(created);
-    Log.i("foo ==> ", "("+dateString+") "+task);
     return "("+dateString+") "+task;
   }
 }
