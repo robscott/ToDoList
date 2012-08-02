@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="ToDoTheme" parent="android:Theme.Light">
+		<item name="android:textSize">16sp</item>
+    </style>
+</resources>

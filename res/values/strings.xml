@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ToDoList</string>
+    <string name="addItemHint">New To Do Item</string>
+    <string name="addItemContentDescription">New To Do Item</string>
+    <string name="add_new">Add New Item</string>
+    <string name="remove">Remove Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_to_do_list">ToDo</string>
+
+</resources>
